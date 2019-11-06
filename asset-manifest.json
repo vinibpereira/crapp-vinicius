@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/crapp-vinicius/static/css/main.c7e98262.chunk.css",
+    "main.js": "/crapp-vinicius/static/js/main.aaeeb55f.chunk.js",
+    "main.js.map": "/crapp-vinicius/static/js/main.aaeeb55f.chunk.js.map",
+    "runtime-main.js": "/crapp-vinicius/static/js/runtime-main.efdfb356.js",
+    "runtime-main.js.map": "/crapp-vinicius/static/js/runtime-main.efdfb356.js.map",
+    "static/js/2.b28c58c9.chunk.js": "/crapp-vinicius/static/js/2.b28c58c9.chunk.js",
+    "static/js/2.b28c58c9.chunk.js.map": "/crapp-vinicius/static/js/2.b28c58c9.chunk.js.map",
+    "index.html": "/crapp-vinicius/index.html",
+    "precache-manifest.d49199d79c0ab81cc97d1d012320d34d.js": "/crapp-vinicius/precache-manifest.d49199d79c0ab81cc97d1d012320d34d.js",
+    "service-worker.js": "/crapp-vinicius/service-worker.js",
+    "static/css/main.c7e98262.chunk.css.map": "/crapp-vinicius/static/css/main.c7e98262.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efdfb356.js",
+    "static/js/2.b28c58c9.chunk.js",
+    "static/css/main.c7e98262.chunk.css",
+    "static/js/main.aaeeb55f.chunk.js"
+  ]
+}
